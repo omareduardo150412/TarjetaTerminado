@@ -6,7 +6,7 @@ Contendra un schema nombrado como "microservicio"
 Los datos los contiene el archivo microservicio.sql
 
 La ruta que se implemento:
-http://localhost:9081/perfil
+http://localhost:9081/perfil/tarjetas
 
 Ejemplo:
-http://localhost:9081/perfil?pasion=Sports&salario=15000&edad=25
+http://localhost:9081/perfil/tarjetas?pasion=Help&salario=7000&edad=25
